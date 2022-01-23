@@ -1,0 +1,4 @@
+apps:
+- name: Sai-iris-flower-prediction-IBM-cloud
+  random-route: true
+  memory: 128M
