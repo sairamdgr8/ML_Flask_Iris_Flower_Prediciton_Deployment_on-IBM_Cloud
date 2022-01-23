@@ -1,1 +1,4 @@
-# ML_Flask_Iris_Flower_Prediciton_Deployment_on-IBM_Cloud
+# IRIS_DATA
+IRIS Data set prediction using machine learning and make web app using Flask and deploy into Heroku
+
+Check out live demo :- https://sai-iris-prediction.herokuapp.com/
